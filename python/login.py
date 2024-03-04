@@ -1,0 +1,3 @@
+def loginuser():
+	return True
+
